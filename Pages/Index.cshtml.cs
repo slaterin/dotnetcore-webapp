@@ -21,7 +21,7 @@ namespace dotnetcore_webapp.Pages
             string mynotsoprivatekey = 
             "E9873D79C6D87DC0FB6A5778633389_SAMPLE_PRIVATE_KEY_DO_NOT_IMPORT_F4453213303DA61F20BD67FC233AA33262" + myveryprivatekey;
             string mynotsoprivatekconectionstring = 
-            "Server=myServerAddress;Database=shehackspurpledb;User Id=shehackspurple;Password=F4453213303DA61F20BD67FC233AA33262;";
+            "Server=myServerAddress2;Database=shehackspurpledb;User Id=shehackspurple;Password=F4453213303DA61F20BD67FC233AA33262;";
             mynotsoprivatekey = mynotsoprivatekey + mynotsoprivatekconectionstring;
             /* Add logging of secrets later */ 
         }       
